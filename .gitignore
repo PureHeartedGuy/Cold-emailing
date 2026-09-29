@@ -1,0 +1,10 @@
+# Full video transcript: fetch locally with scripts/get_transcript.py (not redistributed)
+source/transcript*.txt
+source/transcript*.json
+
+# autoresearch run artifacts (program.md says results.tsv stays untracked)
+results.tsv
+runs/
+run.log
+__pycache__/
+.venv/
